@@ -1,1 +1,1 @@
-# RasR-for-Cancer-Prognosis-Analysis
+# The YuZhang-SMU aims to provide a model/related code or GUI of algorithm for further studies. ALL of them are used just for research, but not for commercy. And the web is updating consistently. If you have any questions, do not hesitate to contact us! (E-mail: jonnyning@foxmail.com, Zhenyuan Ning; or yuzhang@smu.edu.cn, Yu Zhang)
