@@ -1,1 +1,0 @@
-The file of 'DC_MIL Code' provides the core code of the paper 'Dual-Curriculum Contrastive Multi-Instance Learning for Cancer Prognosis Analysis with Whole Slide Imagess' which has been accepted by NeurIPS 2022. We are working toward its further improvement for a journal version. 
