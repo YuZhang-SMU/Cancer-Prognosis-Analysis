@@ -1,1 +1,1 @@
-The file of 'Ada-RSIS Code' provides the core code of the paper 'Adaptive Risk-aware Sharable and Individual Subspace Learning for Cancer Survival Analysis with Multi-modality Data'.
+The file of 'Ada-RSIS Code' provides the core code of the paper 'Adaptive Risk-aware Sharable and Individual Subspace Learning for Cancer Survival Analysis with Multi-modality Data' that has been accepted by Briefings in Bioinformatics.
