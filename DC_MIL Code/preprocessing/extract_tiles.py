@@ -96,10 +96,9 @@ if __name__ == '__main__':
     ref = cv2.imread('./preprocessing/reference.tiff')
     ref = cv2.cvtColor(ref, cv2.COLOR_BGR2RGB)
 
-    dataset = 'LIHC'
-    main_path = f'./data/{dataset}'
-
-    patches = get_patch(main_path)
-        
-    time_end = time.time()
-    print('totally cost', time_end - time_start)
+    for dataset in ['LIHC', 'KIRC', 'BLCA']:
+        time_start = time.time()
+        main_path = f'./data/{dataset}'
+        patches = get_patch(main_path)
+        time_end = time.time()
+        print(f'totally cost of {dataset}:', time_end - time_start)
