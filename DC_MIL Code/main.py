@@ -68,9 +68,8 @@ def main(args):
     return
 
 if __name__ == "__main__":
-    while True:
-        start = time.time()
-        results = main(args)
-        end = time.time()
-        print("finished!")
-        print('Spending Time: %f seconds' % (end - start))
+    start = time.time()
+    results = main(args)
+    end = time.time()
+    print("finished!")
+    print('Spending Time: %f seconds' % (end - start))
