@@ -39,10 +39,12 @@ The multi-instance learning (MIL) has advanced cancer prognosis analysis with wh
 The file of 'DC_MIL Code' provides the core code of the paper 'Dual-Curriculum Contrastive Multi-Instance Learning for Cancer Prognosis Analysis with Whole Slide Imagess' which has been accepted by NeurIPS 2022. We are working toward its further improvement for a journal version. 
 If you find our work useful in your research, please consider citing our paper at:
 ```bash
-@inproceedings{tu2022dual,
-    author    = {Tu, Chao and Zhang, Yu and Ning, Zhenyuan},
-    title     = {Dual-Curriculum Contrastive Multi-Instance Learning for Cancer Prognosis Analysis with Whole Slide Images},
-    booktitle = {Advances in Neural Information Processing Systems},
-    year      = {2022},
+@article{tu2022dual,
+  title={Dual-curriculum contrastive multi-instance learning for cancer prognosis analysis with whole slide images},
+  author={Tu, Chao and Zhang, Yu and Ning, Zhenyuan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={29484--29497},
+  year={2022}
 }
 ```
