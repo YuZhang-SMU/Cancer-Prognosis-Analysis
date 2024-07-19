@@ -14,7 +14,7 @@ parser.add_argument('--fold', type=int, default=0, help='cross validation')
 ####################### Curriculum 1 #########################
 parser.add_argument('--training', type=int, default=1, help='if training')
 parser.add_argument('--encoding', type=int, default=1, help='if encoding instance')
-parser.add_argument('--branch_epoch', type=list, default=[50,50,50], help='model pre-train')
+parser.add_argument('--branch_epoch', type=list, default=[50,50,50], help='The epoch of each branch')
 parser.add_argument('--iter', type=int)
 parser.add_argument('--iters', type=list, default=[32,16,16])
 parser.add_argument('--workers', type=int, default=4)
