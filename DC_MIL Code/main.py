@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 parser = argparse.ArgumentParser(description='Configurations')
 parser.add_argument('--gpu', type=str, default="2", help='GPU')
 parser.add_argument('--multi_gpu', type=int, default=0, help='if multiple GPU')
-parser.add_argument('--dataset', type=str, default="LIHC", help='data')
+parser.add_argument('--dataset', type=str, default="LIHC", help='dataset, e.g., LIHC, BLCA, KIRC')
 parser.add_argument('--fold', type=int, default=0, help='cross validation')
 
 ####################### Curriculum 1 #########################
