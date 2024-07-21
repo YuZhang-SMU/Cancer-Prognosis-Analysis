@@ -8,11 +8,13 @@ Dual-Curriculum Contrastive Multi-Instance Learning for Cancer Prognosis Analysi
 </summary>
 
 ```bash
-@inproceedings{tu2022dual,
-    author    = {Tu, Chao and Zhang, Yu and Ning, Zhenyuan},
-    title     = {Dual-Curriculum Contrastive Multi-Instance Learning for Cancer Prognosis Analysis with Whole Slide Images},
-    booktitle = {Advances in Neural Information Processing Systems},
-    year      = {2022},
+@article{tu2022dual,
+  title={Dual-curriculum contrastive multi-instance learning for cancer prognosis analysis with whole slide images},
+  author={Tu, Chao and Zhang, Yu and Ning, Zhenyuan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={29484--29497},
+  year={2022}
 }
 ```
 </details>
