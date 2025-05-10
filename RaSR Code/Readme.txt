@@ -1,1 +1,0 @@
-The file of 'RaSR Code' provides the core code of the paper 'Relation-aware Shared Representation Learning for Cancer Prognosis Analysis with Auxiliary Clinical Variables and Incomplete Multi-modality Data' which has been published in IEEE TMI.
